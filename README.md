@@ -6,9 +6,14 @@
 
 📫 Contate-me no e-mail: eriksn07@gmail.com
 
+<div align = 'center' >
+
 ![erik's Github Status](https://github-readme-stats.vercel.app/api?username=eriknegreiros&theme=blue-green)
 
+
 ![erik's Github Status](https://github-readme-stats.vercel.app/api/top-langs/?username=eriknegreiros&theme=blue-green)
+</div>
+
 
 ### Tecnologias que uso no meu dia
 
